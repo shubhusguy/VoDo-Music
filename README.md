@@ -23,7 +23,7 @@ This is a dynamic and responsive Music App built using Bootstrap, React, JavaScr
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/music-app.git
+    git clone [https://github.com/your-username/music-app.git](https://github.com/shubhusguy/VoDo-Music.git)
     ```
 2. **Navigate to the project directory**:
     ```bash
