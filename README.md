@@ -1,4 +1,4 @@
-# Music App
+# VoDo-Music App
 
 This is a dynamic and responsive Music App built using Bootstrap, React, JavaScript, and MongoDB. The app allows users to explore tracks, create and manage playlists, and store user preferences in a database.
 
